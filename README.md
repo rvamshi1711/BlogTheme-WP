@@ -1,9 +1,5 @@
-# Neveshtan
+# Vamshi Rapolu
 A blog theme developed to be minimal, fast and standard for WordPress bloggers.
-
-
-### [[**PREVIEW**]](https://eaoui.github.io/neveshtanpreview)
-
 
 ## Features
 * Responsive: Mobile(-first), tablet, desktop, large desktop
@@ -14,22 +10,6 @@ A blog theme developed to be minimal, fast and standard for WordPress bloggers.
 * Clean and pixel-perfect design, inspired by Material Design
 * Lightweight and fast
 
-## Installing
-1. Download a release from [Releases](https://github.com/eaoui/Neveshtan/releases).
-2. Open your WordPress admin panel.
-3. Go to **Appearance**.
-4. Hit **Add New** button.
-5. Then hit **Upload Theme** button.
-6. Choose the file downloaded from the step 1.
-7. Hit **install Now** button.
-8. If successfully installed, hit **activate**.
+<p><img width="940" alt="1_Home_Page" src="https://github.com/user-attachments/assets/4778466b-a751-4810-bbf5-443ab94cacfb" /></p>
 
-## Updating
-1. **[Install](#installing)** the newer release.
-2. Hit **Replace current with uploaded**.
-
-## Contributing
-
-Neveshtan is open to any form of contribution.
-
-Make sure to take a look at [the wiki page](https://github.com/eaoui/Neveshtan/wiki).
+<p><img width="944" alt="2_Bottom_Page" src="https://github.com/user-attachments/assets/6e48e25c-ab1e-4f33-91d0-682bfee4d2c7" /></p>
